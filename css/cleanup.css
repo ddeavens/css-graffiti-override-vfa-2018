@@ -9,6 +9,10 @@
   display: none;
 }
 
+#wall .parent{
+  display: none;
+}
+
 /*.parent{
   display: none;
 }
