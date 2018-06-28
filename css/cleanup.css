@@ -9,8 +9,7 @@
   display: none;
 }*/
 
-div[*= "slick"]
-{display: none;}
+div[*="slick"]{display: none;}
 
 div.parent{display: none;}
 
