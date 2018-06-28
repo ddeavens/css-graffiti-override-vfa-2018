@@ -1,13 +1,13 @@
 /* write your override styles here */
 
 
-#wall .tag-1{
-  display: none;
-}
-
-/*#wall .parent{
+/*#wall .tag-1{
   display: none;
 }*/
+
+#wall .parent{
+  display: none;
+}
 
 
 #tag-2 {
