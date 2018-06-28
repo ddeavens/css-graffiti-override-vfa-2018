@@ -5,14 +5,14 @@
   display: none;
 }
 
-#wall .parent{
+/*#wall .parent{
   display: none;
-}
-
-
-/*#tag-2 {
-    opacity: 0;
 }*/
+
+
+#tag-2 {
+    opacity: 0;
+}
 
 #tag-3 {
     opacity: 0;
