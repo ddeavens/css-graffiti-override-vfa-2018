@@ -1,13 +1,14 @@
 /* write your override styles here */
+div[*=tag]{display:none;}
 
-#wall .tag-1{
+/*#wall .tag-1{
   display: none;
 }
 .parent{
   display: none;
-}*/
+}
 
-#wall div{display:none;}
+#wall div{display:none;}*/
 
 
 /*#tag-2, #tag-3, #tag-4 {display: none;}*/
