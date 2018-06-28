@@ -9,7 +9,7 @@
   display: none;
 }*/
 
-#tag-5 + .slick{display:none;}
+div[*=slick]{display:none;}
 
 div.parent{display: none;}
 
