@@ -1,5 +1,5 @@
 /* write your override styles here */
-div[*=tag]{display:none;}
+img[*=tag]{display:none;}
 
 /*#wall .tag-1{
   display: none;
